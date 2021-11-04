@@ -4,7 +4,6 @@
   "description": "hakaton test",
   "main": "server.js",
   "dependencies": {
-    "@google-cloud/debug-agent": "^5.2.8",
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
